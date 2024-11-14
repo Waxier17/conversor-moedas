@@ -5,8 +5,6 @@ Este é um projeto de um conversor de moeda simples desenvolvido como parte de u
 ## Membros do Grupo
 
 - **Guilherme Andersen Correa**
-- **Nome do membro 2**
-- **Nome do membro 3**
 
 ## Como Instalar e Executar a Aplicação
 
