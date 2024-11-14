@@ -1,21 +1,19 @@
-# Conversor de Moeda
+Conversor de Moeda
 
-Este é um projeto de um conversor de moeda simples desenvolvido como parte de um trabalho em grupo.
+Este é um projeto de um conversor de moeda simples desenvolvido como parte de um trabalho.
 
-## Membros do Grupo
+Membros do Grupo
 
-- **Guilherme Andersen Correa**
+Guilherme Andersen Correa
 
-## Como Instalar e Executar a Aplicação
+Como Instalar e Executar a Aplicação
 
-### Requisitos
+Requisitos
 
 - Ter o [Git](https://git-scm.com/) instalado em seu computador.
 - Ter um navegador de internet moderno (Google Chrome, Firefox, etc).
 
-### Passos para Configuração
-
-1. **Clonar o repositório:**
+Clonar o repositório:
    - Abra o terminal ou Git Bash e execute o comando:
 
    ```bash
