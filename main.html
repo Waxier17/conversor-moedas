@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <!-- Tornando o site responsivo em dispositivos móveis -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora Conversor de Moeda</title>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+  <!-- Div principal que contém o conversor de moeda -->
+  <div class="converter">
+    
+    <!-- Grupo de entrada para o valor a ser convertido -->
+    <div class="input-group">
+      <label for="amount">Insira o valor a converter</label>
+      <input type="text" id="amount" placeholder="R$ 0,00">
+    </div>
+
+    <!-- Seletor de moedas (de origem e destino) -->
+    <div class="currency-selectors">
+      <div class="input-group">
+        <label for="fromCurrency">Moeda para conversão</label>
+        <select id="fromCurrency"></select>
+      </div>
+      
+      <div class="input-group">
+        <label for="toCurrency">Moeda convertida</label>
+        <select id="toCurrency"></select>
+      </div>
+    </div>
+
+    <!-- Contêiner para exibir o resultado da conversão -->
+    <div id="result-container">
+      <p id="result"></p>
+    </div>
+  </div>
+  
+  <footer>
+    <p>Desenvolvido por: Guilherme Andersen Correa</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
