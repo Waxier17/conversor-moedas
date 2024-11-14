@@ -2,8 +2,6 @@ Conversor de Moeda
 
 Este é um projeto de um conversor de moeda simples desenvolvido como parte de um trabalho.
 
-Membros do Grupo
-
 Guilherme Andersen Correa
 
 Como Instalar e Executar a Aplicação
